@@ -1,0 +1,108 @@
+{
+  "cancion": [
+    {
+      "nombre": "El sol",
+      "duracion": "15",
+      "colaboradores": "Juan",
+      "dj": "jjjj",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Muevealo  ",
+      "duracion": 18,
+      "colaboradores": "6         ",
+      "dj": "Zambrano  ",
+      "id_artista": 9,
+      "Artista": null,
+      "Descarga": []
+    },
+    {
+      "id": 4,
+      "nombre": "La luna   ",
+      "duracion": 19,
+      "colaboradores": "8         ",
+      "dj": "Brandon   ",
+      "id_artista": 8,
+      "Artista": null,
+      "Descarga": []
+    },
+    {
+      "id": 5,
+      "nombre": "Perruno   ",
+      "duracion": 6,
+      "colaboradores": "7         ",
+      "dj": "Nicolas   ",
+      "id_artista": 6,
+      "Artista": null,
+      "Descarga": []
+    },
+    {
+      "id": 6,
+      "nombre": "Tres js   ",
+      "duracion": 5,
+      "colaboradores": "1         ",
+      "dj": "Gato      ",
+      "id_artista": 5,
+      "Artista": null,
+      "Descarga": []
+    },
+    {
+      "id": 7,
+      "nombre": "Vientos   ",
+      "duracion": 7,
+      "colaboradores": "2         ",
+      "dj": "Perro     ",
+      "id_artista": 4,
+      "Artista": null,
+      "Descarga": []
+    },
+    {
+      "id": 8,
+      "nombre": "Lluvias   ",
+      "duracion": 8,
+      "colaboradores": "4         ",
+      "dj": "El duro   ",
+      "id_artista": 1,
+      "Artista": null,
+      "Descarga": []
+    },
+    {
+      "id": 9,
+      "nombre": "El amor   ",
+      "duracion": 41,
+      "colaboradores": "5         ",
+      "dj": "Maimo     ",
+      "id_artista": 1,
+      "Artista": null,
+      "Descarga": []
+    },
+    {
+      "id": "a3c7da81-84c7-4f89-85be-aa4c413fdb05",
+      "nombre": "El sol",
+      "duracion": "15",
+      "colaboradores": "Juan",
+      "dj": "El djRata"
+    },
+    {
+      "id": "e5e8de03-a86e-4787-894a-bc788bb55b64",
+      "nombre": "Pepe",
+      "duracion": "15",
+      "colaboradores": "Juan",
+      "dj": "El djRata"
+    },
+    {
+      "id": "9ed167ac-cec5-4bfd-a2c8-a33ef99a1c41",
+      "nombre": "Aldo",
+      "duracion": "20",
+      "colaboradores": "Jose",
+      "dj": "El grandj"
+    }
+  ],
+  "imagenes": [
+    {
+      "id": 1,
+      "path1": "../imgs/1.jpeg"
+    }
+  ]
+}
