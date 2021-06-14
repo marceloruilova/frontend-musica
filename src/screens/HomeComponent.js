@@ -19,7 +19,7 @@ function Home() {
           'https://localhost:44350/api/Artistas',
         );
         const cancion = await axios.get(
-            'http://localhost:3001/cancion/',
+            'https://localhost:44350/api/Canciones',
           );
           
             setArtistas(artista.data);
